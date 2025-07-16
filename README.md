@@ -1,5 +1,7 @@
 # Metal Music Lyrical Sentiment Analysis and Data Profiling Pipeline
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Al-ba22/metal-lyrics-etl-pipeline/blob/main/metal_lyrics_sentiment_analysis.ipynb)
+
 ## Project Overview
 
 This project implements an end-to-end data pipeline focused on analyzing lyrical content within a large archive of metal songs. It demonstrates core data engineering practices, including data extraction, comprehensive cleaning, sentiment analysis, and essential data profiling. The goal is to derive insights into the emotional tone and key characteristics of metal lyrics.
