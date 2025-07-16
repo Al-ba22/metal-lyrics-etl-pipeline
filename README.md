@@ -1,6 +1,6 @@
 # Metal Music Lyrical Sentiment Analysis and Data Profiling Pipeline
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Al-ba22/metal-lyrics-etl-pipeline/blob/main/metal_lyrics_sentiment_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Al-ba22/metal-lyrics-etl-pipeline/blob/main/notebooks/metal_lyrics_sentiment_analysis.ipynb)
 
 ## Project Overview
 
